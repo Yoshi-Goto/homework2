@@ -1,0 +1,450 @@
+The Awk State Machine Parser Pattern (2018),https://two-wrongs.com/awk-state-machine-parser-pattern.html
+Royal Society cautions against censorship of scientific misinformation online,https://royalsociety.org/news/2022/01/scientific-misinformation-report/
+Zero-copy network transmission with io_uring (2021),https://lwn.net/Articles/879724/
+Boyfriend Alert,https://github.com/jscd/Boyfriend-Alert
+Examples of common false beliefs in mathematics,https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics
+Async Rust: Panics vs. Cancellation,https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/
+Convictional (YC W19) is hiring engineers to build the future of B2B trade Remote,https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3
+Chip shortages due to lack of investment in right fabs,https://www.theregister.com/2022/01/28/idc_chip_shortages/
+How I Discovered Thousands of Open Databases on AWS,https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685
+Generate Static Sites from Markdown Files with Caddy,https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server
+What is the inverse of a circle?,https://mattferraro.dev/posts/inverse-of-a-circle
+Reimagining Chess with AlphaZero,https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext
+Finnish diplomats’ phones infected with NSO Group Pegasus spyware,https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/
+Decommissioned Atlas F missile silo complex for sale,https://www.zillow.com/homedetails/2432-Fair-Rd-Abilene-KS-67410/113177058_zpid/
+1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges,https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/
+A virus helped a woman survive a dangerous antibiotic-resistant infection,https://english.elpais.com/usa/2022-01-27/how-a-virus-helped-a-woman-survive-a-dangerous-antibiotic-resistant-infection.html
+Hardy, Ramanujan and Taxi No. 1729,https://johncarlosbaez.wordpress.com/2022/01/30/hardy-ramanujan-and-taxi-no-1729/
+Ylang: Universal Language for eBPF, Stap+, GDB, and More (2021),https://blog.openresty.com/en/ylang-intro-part4/
+Plain Geology (1921),https://pubs.usgs.gov/gip/plain.html
+The Story of Maxis Software (1999),https://web.archive.org/web/19991012021220/http://gamespot.com/features/maxis/index.html
+The case of the mysterious --help directory (2020),https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html
+Mesmerizing Labor,https://daily.jstor.org/mesmerizing-labor/
+Don~t forget Microsoft,https://luttig.substack.com/p/dont-forget-microsoft
+Game performance optimization – A practical example from Industry Idle,https://ruoyusun.com/2022/01/28/game-pref.html
+Lizard scale patterns described with antiferromagnetic model,https://physics.aps.org/articles/v15/s12
+Assembling Accountability, from the Ground Up (2021),https://points.datasociety.net/assembling-accountability-from-the-ground-up-4655c492d0d0?gi=833242955cfa
+Show HN: Web page that parses and explains the label on a bike tire,https://fahrrad-tools.de/tire.html
+Operation Warp Speed: A new model for industrial policy,https://americanaffairsjournal.org/2021/05/inside-operation-warp-speed-a-new-model-for-industrial-policy/
+A UX designer walks into a Tesla Bar,https://jenson.org/tesla/
+How the Hall Effect Still Reverberates,https://spectrum.ieee.org/hall-effect-sensor
+The Great Unconformity: Research points to glaciers being the culprit,https://www.vice.com/en/article/wxdzzb/a-billion-years-of-time-are-mysteriously-missing-scientists-think-they-know-why
+State of the Web: Static Site Generators,https://byteofdev.com/posts/static-site-generators/
+Seattle Telecommunications History Museum,https://www.telcomhistory.org/connections-museum-seattle/
+Devious SQL: Message Queuing Using Native PostgreSQL,https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql
+How Facebook Is Morphing into Meta,https://www.nytimes.com/2022/01/31/technology/facebook-meta-change.html
+On Immersion,https://blog.laurel.world/on-immersion/
+Deep symbolic regression for recurrent sequences,http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/
+Will Tokens Replace Equity?,https://every.to/napkin-math/will-tokens-replace-equity
+Toxic black mold is growing in my brain,https://www.buzzfeednews.com/article/tysonbottenus/black-mold-growing-toxic-brain-vacation
+John Locke’s recipe for Pancakes (2021),https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/
+Hypercard Simulator,https://hypercardsimulator.com/
+Basic Cryptography – The Vigenere Cipher,https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/
+FunctionStomping – A new shellcode injection technique,https://github.com/Idov31/FunctionStomping
+A Padlock I’d Use [video],https://www.youtube.com/watch?v=HrV86GqlY8o
+Sega quits arcade business after 50 years,https://www.eurogamer.net/articles/2022-01-28-sega-quits-japanese-arcade-business-after-50-years
+Yoga and meditation do not quiet the ego but instead boost self-enhancement (2018),https://journals.sagepub.com/doi/abs/10.1177/0956797618764621
+Unconscious R&D (2021),https://subconscious.substack.com/p/unconscious-r-and-d
+Beancount: Double-entry accounting from text files,https://github.com/beancount/beancount
+Qubit appeals to the honour of thieves who lifted $80M of its digi-dollars,https://www.theregister.com/2022/01/31/qubit_bug_bounty/
+In defence of the boring web,https://bastian.rieck.me/blog/posts/2022/boring/
+Mix and Match Mental Models,https://lethain.com/mental-models-mix-match/
+A Simple Transformer Implementation(PyTorch) Without Difficult Syntax,https://github.com/IpsumDominum/Pytorch-Simple-Transformer
+How long has _ existed?,https://howoldisit.glitch.me
+Show the case against,https://www.shubhro.com/2022/01/03/show-the-case-against/
+Very Remote Lisp Debugging Story,https://susam.net/maze/very-remote-debugging.html
+When the algorithm is your boss,https://tribunemag.co.uk/2022/01/amazon-algorithm-human-resource-management-tech-worker-surveillance
+Midnight Commander Tips and Tricks,http://www.softpanorama.org/OFM/MC/mc_tips.shtml
+How Amiga 500 RAM Probably Works,https://www.youtube.com/watch?v=e_f2Kg-bBUs
+Nuanced communication usually doesn~t work at scale,https://twitter.com/danluu/status/1487228574608211969
+Pearls Before Breakfast (2007),https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html
+Fluid Simulation – Siggraph 2007 Course Notes [pdf],https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf
+The Game of War: Chess with Networks (2008),https://www.cabinetmagazine.org/issues/29/galloway.php
+Bringing Ancient Pottery to Life,https://news.harvard.edu/gazette/story/2021/09/harvard-ceramics-program-recreates-art-museums-pieces/
+Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string,https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/
+More Americans died of Covid in the past 2 weeks than died of flu in past 3 yrs,https://twitter.com/Craig_A_Spencer/status/1487985522765086731
+COM+ Revisited,https://lowleveldesign.org/2022/01/17/com-revisited/
+SBCL: New in Version 2.2.1,http://www.sbcl.org/all-news.html?2.2.1#2.2.1
+Message in a bottle from Scottish girl found in Norway after 25 years,https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-60121185
+On the criteria to be used in decomposing systems into modules (1972) [pdf],https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf
+Dennis Ritchie Home Page (2006),https://www.bell-labs.com/usr/dmr/www/
+Applying Offensive Reverse Engineering to Facebook Gameroom (2021),https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom
+Mistakes I~ve Made Building a Music Reactive LED Matrix,https://aradaelli.com/blog/music-reactive-led-matrix/
+DDS: Build and library management tool for C, C++,https://vector-of-bool.github.io/docs/dds/index.html
+I crowdfunded a novel using cryptocurrency,https://ellegriffin.substack.com/p/crypto-funded-nft-novel
+Dataset and Model for “I built a system to take photos of planes over my house”,https://universe.roboflow.com/skybot-cam/overhead-plane-detector
+Japan~s Kowa says ivermectin has ~antiviral effect~ on Covid-19,https://ca.news.yahoo.com/japans-kowa-says-ivermectin-effective-082516933.html
+Please Make a Dumb Car,https://techcrunch.com/2022/01/29/please-make-a-dumb-car/
+One more small step toward the right to software repair,https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/
+Decrypt an encrypted message to any plaintext,https://www.go350.com/posts/padder-a-one-time-pad-implementation/#Decrypt-the-same-ciphertext-to-multiple-plaintexts
+How to excel in tech without learning to code,https://future.a16z.com/excel-in-tech-without-learning-to-code/
+Middle class people now paying more than £1m in tax during lifetime,https://www.telegraph.co.uk/politics/2022/01/31/middle-class-families-now-lifetime-tax-millionaires-research/
+Fun with DBM-type databases (2018),https://www.openwall.com/lists/oss-security/2018/06/17/1
+Completing a Creative Project,https://www.sonyasupposedly.com/completing-a-creative-project/
+U.S. companies are hiring Latin America’s tech talent,https://restofworld.org/2022/latin-america-startup-developer-scarcity/
+Static-Let, or how I Learned to stop worrying and love Load-Time-Value,https://github.com/phoe/articles/blob/main/2022-01-29-static-let/static-let.md
+Show HN: BeanHub – A GitHub for Beancount,https://beanhub.io/
+Phone is still the best way to order pizza,https://dan.bulwinkle.net/blog/phone-is-still-the-best-way-to-order-pizza/
+Recovering Nintendo’s Lost SimCity for the NES,https://gamehistory.org/simcity/
+The Dialectic of Enlightenment and modern life,https://daily-philosophy.com/frankfurt-school-dialectic-enlightenment/
+The Basilikon Doron of King James VI and I,https://blogs.bl.uk/digitisedmanuscripts/2022/01/how-to-be-an-effective-ruler.html
+If it were my home,http://www.ifitweremyhome.com/
+Scientists on alert over rising cases caused by Omicron cousin BA.2,https://www.reuters.com/business/healthcare-pharmaceuticals/scientists-alert-over-rising-cases-caused-by-omicron-cousin-ba2-2022-01-30/
+Autonomous battery-powered rail cars,https://arstechnica.com/cars/2022/01/moving-more-with-less-freight-startup-bets-on-autonomous-electric-rail-cars/
+Using tree data structures to implement terminal split panes,https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/
+In Defense of NIR,https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/
+Reducing the Size of Large PDFs,https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/
+Why is Harvard astrophysicist Avi Loeb working with ardent UFO believers?,https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs
+How to avoid layout shifts caused by web fonts,https://simonhearne.com/2021/layout-shifts-webfonts/
+Hollows Hunter – Scans all running processes,https://github.com/hasherezade/hollows_hunter
+Despite the hype, iPhone security no match for NSO spyware (2021),https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/
+Writing an efficient Vulkan renderer (2020),https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
+Tofuproxy – Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser,http://www.tofuproxy.stargrave.org/
+GoSTL: Algorithm and datastructure library for Go similar to C++ STL,https://github.com/liyue201/gostl
+Set up a website with Nim (2019),https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim
+I got an FBI record at age 11 from dabbling in cryptography (2015),https://web.stanford.edu/~learnest/les/crypto.htm
+Don’t Buy Samsung Smartphones,https://befinitiv.wordpress.com/2022/01/30/dont-buy-samsung-smartphones/
+Rents are up 40 percent in some cities, forcing millions to move,https://www.washingtonpost.com/business/2022/01/30/rent-inflation-housing/
+Things we finally know about network queues (2017),https://apenwarr.ca/log/20170814
+Ulysses at 100: The Birth of the Modern,https://www.ft.com/content/609d5d0d-b666-4af8-af39-82ddaf5f28de
+Show HN: I reverse engineered and documented United Airlines in flight API,https://github.com/greatjack1/United-In-Flight-Api
+Uninitialized memory: Unsafe Rust is too hard,https://lucumr.pocoo.org/2022/1/30/unsafe-rust/
+New engine could save internal combustion from the scrap heap,https://www.motor1.com/news/563664/new-omega-combustion-engine-design/
+24/192 Music Downloads and why they make no sense (2012),https://web.archive.org/web/20200417180912/https://people.xiph.org/~xiphmont/demo/neil-young.html
+Topos Theory in a Nutshell,https://math.ucr.edu/home/baez/topos.html
+USB Type-C finally shows up in power tools,https://www.xda-developers.com/usb-type-c-power-tools/
+Tech debt gets worse before it gets better,https://jeremymikkola.com/posts/2022_01_29_tech_debt_gets_worse_before_it_gets_beffer.html
+What is FORGE?,https://www.energy.gov/eere/geothermal/what-forge
+War Is a Racket (1933),https://man.fas.org/smedley.htm
+Windows 11 update changed default browser to Edge, Chrome search-engine to Bing,https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/
+The Society of the Spectacle,https://unredacted-word.pub/
+Autonomous Detection and Deterrence of Pigeons on Buildings by Drones,https://ieeexplore.ieee.org/document/9656717
+Dave Packard~s Simple Rules for Getting Along with Others (2013),https://fs.blog/dave-packards-11-simple-rules/
+Rpilocator – Find a Raspberry Pi in Stock,https://rpilocator.com
+Don~t you lecture me with your thirty dollar website,https://gdcolon.com/🗿
+People don~t work as much as they say,https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think
+Console – The Weekly Open Source Newsletter,https://console.substack.com/p/console-90
+RIP Stack Overflow Jobs,https://blog.tdwright.co.uk/2022/01/29/only-the-great-die-at-11-rip-stack-overflow-jobs/
+How FreeDOS Grew Up and Became a Modern DOS (2021),https://www.cloudsavvyit.com/12250/how-freedos-grew-up-and-became-a-modern-dos/
+Hoare’s Rebuttal and Bubble Sort’s Comeback,https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html
+Kia’s new EV6 electric crossover goes straight to the head of the pack,https://arstechnica.com/cars/2022/01/kias-new-ev6-electric-crossover-goes-straight-to-the-head-of-the-pack/
+I haven’t been I: On Fernando Pessoa (2021),https://www.lrb.co.uk/the-paper/v43/n16/colm-toibin/i-haven-t-been-i
+The UN is testing technology that processes data confidentially,https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385
+Treasury reconsiders IRS’s use of ID.me face recognition for web,https://www.bloomberg.com/news/articles/2022-01-28/treasury-weighing-id-me-alternatives-over-privacy-concerns
+Did I just lose half a million dollars?,https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/
+Building single-page-apps with PostgREST,https://blog.polyglot.network/backend.sql-+-frontend.js-love
+Plant-based epoxy enables recyclable carbon fiber,https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html
+A dynamic tutorial about a compiler in one JavaScript file (2016),https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js
+Apple removes Grindr from the Chinese app store,https://applecensorship.com/app-store-monitor/
+The Moral Calculations of a Billionaire,https://www.washingtonpost.com/nation/2022/01/30/moral-calculations-billionaire/
+The Promise of Hierarchical Reinforcement Learning (2019),https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/
+What may the new James Webb telescope discover?,http://backreaction.blogspot.com/2022/01/what-may-new-james-webb-telescope.html
+Full-Text Search Battle: PostgreSQL vs. Elasticsearch,https://www.rocky.dev/full-text-search
+The battle for the world’s most powerful cyberweapon,https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html
+Socrates on the blessing of being refuted,https://antigonejournal.com/2022/01/socrates-being-refuted/
+Pieces of Pi,https://www.futilitycloset.com/2022/01/27/pieces-of-pi-2/
+“Memory leaks are memory safe in Rust”,https://doc.rust-lang.org/book/ch15-06-reference-cycles.html
+A hyperactive cell in the brain might trigger Alzheimer~s disease,https://www.npr.org/sections/health-shots/2022/01/30/1076166807/how-a-hyperactive-cell-in-the-brain-might-trigger-alzheimers-disease
+Anthropomorphic wooden cult figurines of Central and Northern Europe,https://en.wikipedia.org/wiki/Anthropomorphic_wooden_cult_figurines_of_Central_and_Northern_Europe
+Vimeo is holding our Patreon catalogue hostage,https://www.patreon.com/posts/vimeo-is-holding-61514364
+PostgreSQL used fsync incorrectly for 20 years (2019) [video],https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/
+If Looks Could Kill,https://vintagecomputerstories.blogspot.com/2022/01/if-looks-could-kill.html
+QRImage: Web app to generate QR codes with images,https://github.com/HughChen/qr_image
+Tor Browser: a legacy of advancing private browsing innovation,https://blog.torproject.org/tor-browser-advancing-privacy-innovation/
+Investigating how artists in Roman Egypt customized portraits for the dead,https://www.archaeology.org/issues/451-2201/features/10182-egypt-mummy-portraits
+A pure Go embedded SQL database,https://gitlab.com/cznic/ql
+Brain size found to have decreased in domesticated cats,https://phys.org/news/2022-01-brain-size-decreased-domesticated-cats.html
+Tesla now monitors how often you adjust your seat position,https://driveteslacanada.ca/news/tesla-now-monitors-how-often-you-adjust-your-seat-position-and-will-disable-controls-for-chronic-abusers/
+Turning back time with epigenetic clocks,https://www.nature.com/articles/d41586-022-00077-8
+Spotify Announces Addition of Content Warnings,https://deadline.com/2022/01/spotify-content-warnings-joe-rogan-covid-19-misinformation-1234922739/
+Everything we see is a mash-up of the brain’s last 15s of visual information,https://theconversation.com/everything-we-see-is-a-mash-up-of-the-brains-last-15-seconds-of-visual-information-175577
+In quieter corners DAOs are forging a new ecosystem for digital startups,https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto
+Knowledge Bases for Software Teams: What, Why and How?,https://anfalatawi.github.io/Docs/
+Choosing tools for Game Boy development,https://gbdev.io/guides/tools.html
+Show HN: A Safari web extension to access alternate news,https://stayobjective.com/
+Should I build a Tesla coil for a science fair?,https://www.teslacoildesign.com/appendix.html
+Heartbreaking: 6509 PSUs Fail After a Brief 22 Years of Service,https://www.jumboframeinternet.com/post/1/
+Sendxmpp as a Replacement for Mail(1),https://momi.ca/posts/2020-08-28-sendxmpp.html
+Steampunk Machine Learning,https://queue.acm.org/detail.cfm?id=3511543
+Snap chat: The psychology of selfies (2019),https://drmarkgriffiths.wordpress.com/2019/02/07/snap-chat-the-psychology-of-selfies/
+Decoupled Transactions: Low Tail Latency Transactions Atop Jittery Servers,http://muratbuffalo.blogspot.com/2022/01/decoupled-transactions-low-tail-latency.html
+Theoretical Advances in AMM (Automated Market Maker) Understanding,https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding
+Node.js is finally going to get the fetch API,https://github.com/nodejs/node/pull/41749
+Alexa whistleblower demands Amazon apology after being jailed and tortured,https://www.theguardian.com/technology/2022/jan/30/alexa-factory-whistleblower-i-was-tortured-and-jailed-now-amazon-should-apologise
+The Banality of Genius: Notes on Peter Jackson~s Get Back,https://ianleslie.substack.com/p/the-banality-of-genius-notes-on-peter
+Program design in the Unix environment [pdf],https://harmful.cat-v.org/cat-v/unix_prog_design.pdf
+America~s Favorite Pickup Truck Goes Electric,https://www.newyorker.com/magazine/2022/01/31/americas-favorite-pickup-truck-goes-electric
+Black, the uncompromising Python code formatter, is stable,https://pypi.org/project/black/
+Writing Literate API Documentation in Emacs Org Mode,https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/
+Blueberry Earth or “what if the entire Earth was replaced with blueberries?“ (2018),https://arxiv.org/abs/1807.10553
+Walking America: Washington, DC (Anacostia and Alexandria),https://intellectualinting.substack.com/p/walking-america-washington-dc-anacostia
+Awesome DOS: references for development of DOS applications,https://github.com/balintkissdev/awesome-dos
+Musk offered a Florida teen $5k to delete a Twitter account tracking his jet,http://lite.cnn.com/en/article/h_c6ad730345985dc3b427ab12bcb17068
+The Smart Modem,https://computer.rip/2022-01-24-the-smart-modem.html
+What I learned from building a ProGAN for porn,https://davidmack.medium.com/what-i-learned-from-building-an-ai-that-generates-porn-ba1f47b2035f
+Long-lost sphinxes of Egyptian king Amenhotep III unearthed at Luxor,https://arstechnica.com/science/2022/01/long-lost-sphinxes-of-egyptian-king-amenhotep-iii-unearthed-at-luxor/
+The Manga Guide Series,https://www.ohmsha.co.jp/english/manga.htm
+Latin as she is spoke: How classicists tricked themselves (2019),http://blogicarian.blogspot.com/2019/03/argumentum-ad-ignorantiam.html
+Prodspec&Annealing: continuous declarative infrastructure management at Google,https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production
+On literally working with COVID-19,https://drlaurenserino.substack.com/p/on-literally-working-with-covid-19
+Can medieval sleeping habits fix America’s insomnia?,https://www.theatlantic.com/ideas/archive/2022/01/medieval-sleeping-habits-insomnia-segmented-biphasic/621372/
+Bubble sort: an archaeological algorithmic analysis,https://www.semanticscholar.org/paper/Bubble-sort%3A-an-archaeological-algorithmic-analysis-Astrachan/9109f7043198ea2d8f43f15a2ff7afa8e7c15f8d
+Foam Decentralised Location Service,https://foam.space/location
+Dutch-Japanese Relations,https://www.netherlandsandyou.nl/your-country-and-the-netherlands/japan/and-the-netherlands/dutch-japanese-relations
+How lithographs are made,https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/lithograph
+New Book called “What if? 2” by Xkcd creator Randall Munroe,https://www.amazon.com/What-Additional-Scientific-Hypothetical-Questions/dp/0525537112
+Simulation of a 2B-atom cell that metabolizes and grows like a living cell,https://blogs.nvidia.com/blog/2022/01/20/living-cell-simulation/
+Failed fast food restaurant and retail chains thought long-gone,http://www.brokenchains.blog/
+GDPR penalty for passing on of IP address to Google by using Google Fonts,https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/
+Docker for Mac Without Docker Desktop,https://github.com/stenh0use/docker-machine-for-mac
+The disappearance of Japan’s “third gender”,https://daily.jstor.org/the-disappearance-of-japans-third-gender/
+Tango: Create step-by-step documentation with screenshots,https://www.tango.us/
+Wire is now on F-Droid,https://f-droid.org/en/packages/com.wire/
+Writing an open source GPU driver without the hardware,https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/
+Magic Mouse 2 – A Terrible Design (2017),https://fyngyrz.com/?p=3183
+Procrastinate: PostgreSQL-Based Task Queue for Python,https://procrastinate.readthedocs.io/en/stable/index.html
+Professor Fortran~s Encyclopedia,https://bashny.net/t/en/34007
+Deep physical neural networks trained with backpropagation,https://www.nature.com/articles/s41586-021-04223-6
+Analog Television Simulation,https://substack.net/tv/#57
+Rome: Decline and Fall? Part II: Institutions,https://acoup.blog/2022/01/28/collections-rome-decline-and-fall-part-ii-institutions/
+The “Legal Tender” Decision (1863),https://www.nytimes.com/1863/06/06/archives/the-legal-tender-decision.html
+YouTube-dl is under new management, will be happy to see new PRs,https://github.com/ytdl-org/youtube-dl/issues/30568
+The Battle of Helm’s Deep, Part I: Bargaining for Goods at Helm’s Gate,https://acoup.blog/2020/05/01/collections-the-battle-of-helms-deep-part-i-bargaining-for-goods-at-helms-gate/
+Michigan population: Deaths outpaced births for first time,https://www.freep.com/story/news/health/2022/01/26/deaths-outpaced-births-michigan-1st-time-2020/6584958001/
+Hospitals are already using race to ration care,https://www.theatlantic.com/ideas/archive/2022/01/race-based-covid-rationing-ideology/621405/
+Rebranding FLoC Without Addressing Key Privacy Issues,https://brave.com/web-standards-at-brave/7-googles-topics-api/
+Colleges and universities across the US are moving to ban caste discrimination,https://www.cnn.com/2022/01/30/us/csu-caste-protections-universities-cec/index.html
+Plagiarism as a patent amplifier: Understanding the delayed rollout of PQC,https://blog.cr.yp.to/20220129-plagiarism.html
+I Discovered Thousands of Open Databases on AWS,https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=a5806859a401
+Prime Video Uses WebAssembly,https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types
+Show HN: Learn Basics of Programming in 40 Minutes,https://easylang.online/apps/tutorial_learn_programming.html
+Locks in JavaScript, because why not,https://jackpordi.com/posts/locks-in-js-because-why-not
+Fpx: Easy USB‑C power for all your devices,https://fpx.oxplot.com
+Clean Code Is a Phase,https://koenvangilst.nl/blog/clean-code-is-a-phase
+Writing a toy traceroute from scratch,https://alexanderell.is/posts/toy-traceroute/
+Si78c: Memory-accurate reimplementation of Space Invaders in C,https://github.com/loadzero/si78c
+Show HN: Wordle Image Maker,https://wordle.gary.mcad.am
+Possible Ninja Weapon Prototypes Discovered Among the Ruins of Castles in Japan,https://allthatsinteresting.com/ninja-weapons-prototypes
+Over 20k servers have their iLO interfaces exposed to the internet,https://isc.sans.edu/diary/Over+20+thousand+servers+have+their+iLO+interfaces+exposed+to+the+internet%2C+many+with+outdated+and+vulnerable+versions+of+FW/28276
+A look back: Bram Cohen vs. Linus Torvalds (2017),https://wincent.com/blog/a-look-back-bram-cohen-vs-linus-torvalds
+‘Fix My Computer’ Cry Echos on Social Media; Air Force CIO Responds,https://www.airforcemag.com/fix-my-computer-cry-echos-on-social-media-air-force-cio-responds/
+Prioritization, multiple work streams, unplanned work,https://leeorengel.com/prioritization-multiple-work-streams-unplanned-work-oh-my/
+Learn by Wrapping,https://mikerourke.dev/blog/learn-by-wrapping/
+Radio Garden – Explore live radio by rotating the globe,http://radio.garden/
+Hive: A Globally-Distributed Key/Value Store [pdf],https://papers.s3.fr-par.scw.cloud/hive.pdf
+Scaling Kubernetes to Over 4k Nodes and 200k Pods,https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed
+There’s No Such Thing as Clean Code,https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code
+SQL Reunion: People, Projects, and Politics (1995),https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html
+DBOS: A DBMS-oriented Operating System [pdf],https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf
+“No, You Can’t Have My Pronouns” (2019),https://emjaymurphee.medium.com/no-you-cannot-have-my-gender-pronouns-5b2f6b7e418a
+Nova – Erlang Web Framework,http://novaframework.org/
+The Wikimedia Foundation~s acceptance of cryptocurrency donations,https://blog.mollywhite.net/wikimedia-foundation-cryptocurrency-donations/
+Belphegor~s Prime,https://en.wikipedia.org/wiki/Belphegor%27s_prime
+Debian rebuild with Clang 10 and some patches,https://sylvestre.ledru.info/blog/2020/06/02/debian-rebuild-with-clang-10-some-patches
+Finnish diplomats have been targets of cyber espionage by Pegasus spyware,https://um.fi/current-affairs/-/asset_publisher/gc654PySnjTX/content/ulkoministerio-on-saanut-selvitettya-siihen-kohdistuneen-vakoilutapauksen
+The Average Cost of Building a Tesla Revealed in Year-End Earnings Report,https://cleantechnica.com/2022/01/30/the-average-cost-of-building-a-tesla-revealed-in-year-end-earnings-report/
+Malicious app on Google Play drops banking malware on users’ devices,https://blog.pradeo.com/vultur-malware-dropper-google-play
+Survey Shows 60% of VFX Designers Are Using Linux,https://fosspost.org/survey-shows-60-of-vfx-designers-use-linux/
+Ethereum Is a Dark Forest,https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/
+Abuse and the developing human brain (2000),https://www.dana.org/article/wounds-that-time-wont-heal/
+Rare real colour photos of WWII,https://rarehistoricalphotos.com/color-photos-from-second-world-war/
+Six Statistical Critiques That Don’t Quite Work,https://nickch-k.github.io/SomeThoughts/posts/2022-01-23-overdebunked/
+Right to Repair Fight,https://www.checkbook.org/national/right-to-repair/
+One gemini battery nearly doubles Tesla Model S range,https://www.motortrend.com/news/one-gemini-battery-tesla-model-s-range-test/
+Fantastic Symbols and Where to Find Them – Part 2,https://www.polarsignals.com/blog/posts/2022/01/27/fantastic-symbols-and-where-to-find-them-part-2/
+Citizen developers are rapidly becoming the vanguard of corporate digitisation,https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software-not-just-the-geek-elite
+High carbohydrate intake, not fat, was associated with higher risk of mortality (2017),https://www.thelancet.com/article/S0140-6736(17)32252-3/fulltext
+Joan Didion: On Self-Respect (1961),https://www.vogue.com/article/joan-didion-self-respect-essay-1961
+An update on rust/coreutils,https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils
+The Long Road to Today’s Cochlear Implant,https://spectrum.ieee.org/cochlear-implant-history
+Managing Availability in Service Based Deployments with Continuous Testing,https://engineering.salesforce.com/managing-availability-in-service-based-deployments-with-continuous-testing-61be968da4a?gi=28047bfcc74e
+Reasons for servers to support IPv6,https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/
+Universe BIOS for NeoGeo,http://unibios.free.fr/index.html
+Reclaiming the lost art of Linux server administration,https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/
+Computers Don~t Argue,https://en.wikipedia.org/wiki/Computers_Don%27t_Argue
+Y Combinator’s new high stakes strategy unnerves emerging market investors,https://restofworld.org/2022/y-combinator-change-emerging-market-investors/
+A pipe operator for JavaScript: introduction and use cases,https://2ality.com/2022/01/pipe-operator.html
+Changes in USDA food composition data for 43 garden crops, 1950 to 1999,https://pubmed.ncbi.nlm.nih.gov/15637215/
+Argentina’s dystopian reality where inflation runs at 50 per cent,https://inews.co.uk/news/world/argentinas-dystopian-reality-where-inflation-runs-at-50-per-cent-1411577?ITO=msn
+Show HN: Encycla – like GitHub for knowledge,https://encycla.com/
+Show HN: Jig – Live coding your business dashboards (now with demo video),https://www.jigdev.com
+Show HN: RandomCoin – A cryptocurrency that changes its price every second,https://eugenekudashev.com/randomcoin/
+I won the local election, but my township ignored the results and state law,https://twitter.com/gaughen/status/1486834885964832770
+The 512KB Club,https://512kb.club/
+Brian Kernighan on the Origins of Unix,https://lwn.net/Articles/881431/
+Study finds endocrine disruptors in plastics may contribute to obesity,https://pubs.acs.org/doi/10.1021/acs.est.1c06316
+David Chalmers considers the possibilities of VR,https://lithub.com/adventures-in-technophilosophy-on-the-reality-of-virtual-worlds/
+Five Geek Social Fallacies (2003),https://plausiblydeniable.com/five-geek-social-fallacies/
+A Base64 Surprise,https://cendyne.dev/posts/2022-01-23-base64.html
+Elements of the Theory of Computation (1997),https://www.pearson.com/store/p/elements-of-the-theory-of-computation/P100001374025/9780132624787
+Mementos Mori,https://thebaffler.com/latest/mementos-mori-haigney
+Evolution of the elephant depiction throughout the middle ages,https://www.uliwestphal.de/elephas-anthropogenus/index.html
+Reducing inequality can reverse political polarisation: study,https://www.thesaint.scot/post/university-study-finds-reducing-inequality-can-reverse-political-polarisation
+Visualizing how engineers will repair the undersea communications cable of Tonga,https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/
+Apple contributes to OBS to support screen capture using ScreenCaptureKit,https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e
+Full image of ‘new’ Vermeer with uncovered Cupid released by Dresden museum,https://www.theartnewspaper.com/2021/08/24/first-full-image-of-new-vermeer-with-uncovered-cupid-released-by-dresden-museum
+Cray Simulator (X-MP, Y-MP-el, J90, SV1),https://github.com/andrastantos/cray-sim
+To Boldly Go: Star Trek and the Split Infinitive,https://www.merriam-webster.com/words-at-play/to-boldly-split-infinitives
+Creating the Notion API,https://www.notion.so/blog/creating-the-notion-api
+Pulumi and MinIO – Making Multi-Cloud Magic,https://blog.min.io/pulumi-and-minio-making-multi-cloud-magic/
+MasterCard’s CipherTrace Used ‘Honeypots’ to Gather Crypto Wallet Intel,https://www.coindesk.com/layer2/privacyweek/2022/01/28/mastercards-ciphertrace-used-honeypots-to-gather-crypto-wallet-intel/
+Munich State Court Finds Use of Google Fonts in Violation of GDPR,https://twitter.com/fascinatingtech/status/1487342734906171393
+A USB-C cable with a built-in power meter,https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery
+Atari System V Unix – Unofficial Website,http://www.atariunix.com/
+The Semiconductor Ecosystem Explained,https://steveblank.com/2022/01/25/the-semiconductor-ecosystem/
+Swift Programming Language Type System Introduction (Video Lecture),https://www.youtube.com/watch?v=-61sV7wA7rw
+Murder Of Gwen Araujo,https://en.wikipedia.org/wiki/Murder_of_Gwen_Araujo
+C#/.NET Core Template for a SaaS API,https://www.indiehackers.com/post/c-net-core-template-for-a-saas-api-16eb02c1a5
+The Hidden Engineering Protecting Getty Art from Earthquakes,https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/
+Hiding malware in Docker Desktop~s virtual machine,https://community.atlassian.com/t5/Trust-Security-articles/Icarus-Labs-research-diary-Hiding-malware-in-Docker-Desktop-s/ba-p/1924749
+I learned to stop worrying and love Hypercard (1990),https://rileystew.art/posts/hypercard-gervich
+Hyundai Just Issued a Recall for a Hilariously Unexpected Dashboard Issue,https://jalopnik.com/hyundai-just-issued-a-recall-for-a-hilariously-unexpect-1848442866
+AI can identify heart disease from an eye scan,https://www.leeds.ac.uk/news-technology/news/article/5000/ai-can-identify-heart-disease-from-an-eye-scan
+Can I have a smaller Prometheus,https://wejick.wordpress.com/2022/01/29/can-i-have-a-smaller-prometheus/
+On self-modifying executables in Rust,https://blog.dend.ro/self-modifying-rust/
+A Study of Firecracker and gVisor (2020) [pdf],https://pages.cs.wisc.edu/~swift/papers/vee20-isolation.pdf
+Magic-trace: Diagnose tricky performance issues with Intel Processor Trace,https://blog.janestreet.com/magic-trace/
+Lake Peigneur,https://en.wikipedia.org/wiki/Lake_Peigneur
+India Semiconductor Mission,https://ism.gov.in
+What Microsoft~s Planned Acquisition Means,https://www.fool.com/investing/2022/01/29/what-microsofts-planned-acquisition-means/
+2FA app with 10k Google Play downloads loaded well-known banking trojan,https://arstechnica.com/information-technology/2022/01/2fa-app-with-10000-google-play-downloads-loaded-well-known-banking-trojan/
+~Dutch reach~ rule change to Highway Code welcomed,https://www.bbc.com/news/uk-england-leicestershire-60089225
+How to Calculate the Energy Consumption of a Mac,https://www.rdegges.com/2022/how-to-calculate-the-energy-consumption-of-a-mac/
+Apple removes Python 2.7 in macOS 12.3 beta,https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python
+Solar superflares hit Earth multiple times,https://earthsky.org/earth/solar-superflares-tree-rings/
+Tip: Don~t record laser tattoo removal (2019),https://old.reddit.com/r/photography/comments/ayua7d/tip_dont_record_laser_tattoo_removal/
+ID.me CEO backtracks on claims they don~t use powerful facial recognition tech,https://www.cyberscoop.com/id-me-ceo-backtracks-on-claims-company-doesnt-use-powerful-facial-recognition-tech/
+The volcanic explosion in Tonga destroyed an island and created many mysteries,https://www.nationalgeographic.com/science/article/volcanic-explosion-in-tonga-created-many-mysteries
+Hacktivism and State-Sponsored Knock-Offs. Attributing Deceptive Hack Operations,https://www.sentinelone.com/labs/hacktivism-and-state-sponsored-knock-offs-attributing-deceptive-hack-and-leak-operations/
+PostgreSQL Timestamps and Timezones: What You Need to Know–and What You Don’t,https://blog.yugabyte.com/postgresql-timestamps-timezones/2
+Can a biologist fix a radio?–Or, what I learned while studying apoptosis (2002) [pdf],https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf
+Iso.org outage hits day 3,https://www.theregister.com/2022/01/28/iso_down/
+Setting Height and Width on Images Is Important Again,https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/
+Bridge collapse in Pittsburgh’s Frick Park,https://triblive.com/local/frick-park-bridge-collapses-natural-gas-smell-in-area/
+Why do startups hire so many people?,https://www.quora.com/Why-do-tech-startups-still-hire-so-many-people-Given-the-well-documented-costs-both-direct-and-indirect-of-increasing-the-size-of-organizations-why-do-so-many-tech-companies-still-grow-so-quickly
+Show HN: Random Wikipedia Article by Category,http://wikistroll.com/
+Superintelligence in SF,https://thorehusfeldt.com/2018/05/25/superintelligence-in-sf-part-iii-aftermaths/
+Flameshot – A better screenshot for Linux, macOS and Windows,https://flameshot.org/
+A Strange Medieval Manuscript Taught Me How Couples Flirted a Thousand Years Ago,https://tedgioia.substack.com/p/a-strange-medieval-manuscript-taught
+Rust extension traits, greppability and IDEs,https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/
+Stepwise slime mould growth as a template for urban design,https://www.nature.com/articles/s41598-022-05439-w
+Show HN: Open-source contribution learning experiment – thumbor-bootcamp,https://github.com/thumbor/thumbor-bootcamp
+The New Lysenkoism,https://www.city-journal.org/the-new-lysenkoism
+Recreating the Shortest Math Paper with Rust and WASM,https://carlkcarlk.github.io/shortestpaper/
+The 21 best StumbleUpon alternatives of 2022,https://blog.kovah.de/en/2022/best-stumbleupon-alternatives-2022/
+Fuchsia already runs Java code with Android~s DalvikVM,https://fuchsia-review.googlesource.com/c/fuchsia/+/638044
+Trader loses $510k trying to convert funds between two cryptocurrencies,https://web3isgoinggreat.com?id=2022-01-29-1
+Show HN: UI to allow your team to easily create Airflow DAGs with no code,https://typhoon-data-org.github.io/typhoon-orchestrator/index.html#component-ui
+The sun was dimmer when earth formed – how did life emerge?,https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/
+Unlisted App Distribution,https://developer.apple.com/support/unlisted-app-distribution/
+Grid Cell,https://en.wikipedia.org/wiki/Grid_cell
+Quitting Dgraph Labs,https://discuss.dgraph.io/t/quitting-dgraph-labs/16702
+Markov Chains (2014),https://setosa.io/blog/2014/07/26/markov-chains/
+Some Amazon divisions have lost at least 35% of their staff in the past year,https://www.businessinsider.com/amazon-attrition-rates-as-high-as-35-doesnt-reward-loyalty-2022-1
+SPARCbook Teardown,https://jasoneckert.github.io/myblog/sparcbook-teardown/
+Microsoft: Windows needs at least 8 hours online to update reliably,https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-needs-at-least-8-hours-online-to-update-reliably/
+Show HN: AlexCalc, a scientific calculator with LaTeX equation display,https://alexbarry.github.io/AlexCalc/
+A Gentle Intro to Vector Search for Developers,https://www.pinecone.io/learn/vector-search-basics/
+Private equity firms near a $13B buyout of Citrix Systems,https://financialpost.com/pmn/business-pmn/elliott-and-vista-nears-13-billion-deal-to-buy-citrix-source
+Fake Investor John Bernard Sinks Norwegian Green Shipping Dreams,https://krebsonsecurity.com/2022/01/fake-investor-john-bernard-sinks-norwegian-green-shipping-dreams/
+Dozens of U.S. states say Apple stifles competition, back Epic,https://www.reuters.com/technology/dozens-us-states-say-apple-stifles-competition-back-fortnite-maker-2022-01-28/
+Show HN: Troogl – A new way to read the news,https://github.com/samueldobbie/troogl-extension
+Armored Caboose Designed to Protect Navy Nuclear Waste Trains Begins Final Test,https://www.thedrive.com/the-war-zone/44062/armored-caboose-designed-to-protect-navy-nuclear-trains-is-about-to-start-its-final-testing
+Masterclass on mathematical thinking,https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/
+Interview Theater,https://rainofterra.com/interview-theater-f2d749353422
+Syndicate: The Missing Session Layer for the Internet,https://syndicate-lang.org/
+Will They Reply? Analysing Reply Networks of 32 Programming Language Subreddits,https://connectingfigures.com/2022/01/28/will-they-reply-analysing-the-reply-networks-of-32-programming-language-subreddits/
+Show HN: Session manager and task runner for tmux written in Go,https://github.com/ivaaaan/smug
+Suicide hotline shares data with for-profit spinoff, raising ethical questions,https://www.politico.com/news/2022/01/28/suicide-hotline-silicon-valley-privacy-debates-00002617
+Ivermectin Prophylaxis Used for Covid-19,https://www.cureus.com/articles/82162-ivermectin-prophylaxis-used-for-covid-19-a-citywide-prospective-observational-study-of-223128-subjects-using-propensity-score-matching
+Vitamin D supplementation reduces autoimmune disease risk in trial findings,https://www.bmj.com/content/376/bmj-2021-066452
+The ~hidden resignation~: employees are checked out,https://tidymails.com/business-insider/the-hidden-resignation-employees-are-checked-out-full-article/235949/
+A Mechanical Keyboard Project from Scratch,https://sdomi.pl/weblog/14-cuteboard-mechanical-keyboard-from-scratch/
+The Many Meanings of “Stack”,https://ezzeriesa.notion.site/The-many-meanings-of-stack-bc768cb186714b579547b7b8681ee32f
+What Is Mexican Food? A Nevada Court Has the Tricky Job of Deciding,https://www.wsj.com/articles/mexican-food-salad-nevada-court-11643412480
+Terminal support for emoji,https://darrenburns.net/posts/emoji-in-the-terminal/
+Stargate Physics 101,https://archiveofourown.org/works/3673335
+Over 10% of Tesla Model S EVs Fail Germany’s Strict Inspection After 3 Years,https://www.thedrive.com/news/44068/over-10-percent-of-tesla-model-s-evs-fail-germanys-strict-inspection-after-3-years
+SiriusXM to launch ~Neil Young Radio~ after he parts ways with Spotify,https://thehill.com/blogs/in-the-know/in-the-know/591642-siriusxm-to-launch-neil-young-radio-after-he-parts-ways-with
+Kazakhstan shut down its internet. These programmers opened a backdoor,https://www.codastory.com/authoritarian-tech/kazakhstan-shut-down-its-internet-these-programmers-opened-a-backdoor/
+Valve~s tweaking Linux drivers to squeeze more battery life out of Steam Deck,https://www.pcgamer.com/valves-tweaking-linux-drivers-to-squeeze-more-battery-life-out-of-the-steam-deck-on-steamos-30/
+Apple now allows unlisted apps on the App Store,https://arstechnica.com/gadgets/2022/01/apple-now-allows-unlisted-apps-on-the-app-store/
+We Built a SIMD JIT Compiler for SQL in QuestDB,https://questdb.io/blog/2022/01/12/jit-sql-compiler/
+178 Seconds to Live,https://www.youtube.com/watch?v=b7t4IR-3mSo
+Regression and Other Stories by Andrew Gelman, Jennifer Hill, Aki Vehtari,https://avehtari.github.io/ROS-Examples/
+Simulation of Atmospheric Refraction,http://walter.bislins.ch/bloge/index.asp?page=Simulation+of+Atmospheric+Refraction
+Open source developers, who work for free, are discovering they have power,https://techcrunch.com/2022/01/18/open-source-developers-who-work-for-free-are-discovering-they-have-power/
+A Chinese Satellite Just Grappled Another and Pulled It Out of Orbit,https://www.thedrive.com/the-war-zone/44054/a-chinese-satellite-just-grappled-another-and-pulled-it-out-of-orbit
+Sinking 1K NYC subway cars in the Atlantic to create a reef didn’t go as planned,https://www.fastcompany.com/90716245/sinking-1000-nyc-subway-cars-in-the-atlantic-to-create-a-reef-didnt-go-as-planned
+Hackers are now dropping malware into SSD drives through firmware updates,https://cybernews.com/security/hackers-are-now-dropping-malware-into-ssd-drives-through-firmware-updates/
+SunVox 2.0,https://warmplace.ru/forum/viewtopic.php?f=16&t=6005&p=21138#p21138
+NixOS on the Framework Laptop,https://www.worldofbs.com/nixos-framework/
+Twitter doesn~t care about spam?,https://twitter.com/paulg/status/1487022342630957062
+How the FTC Is Reshaping the Antitrust Argument Against Tech Giants,https://www.wsj.com/articles/how-the-ftc-is-reshaping-the-antitrust-argument-against-tech-giants-11643432448
+Orcas found to kill blue whales,https://www.nationalgeographic.com/animals/article/orcas-can-kill-blue-whales-the-biggest-animal-on-earth
+The University of Austin: Fewer administrators, more intellectual openness,https://www.wsj.com/articles/pano-kanelos-wants-to-remake-higher-education-11643390841
+The NYT Crossword Puzzle Community~s Surprising Culture Wars,https://kotaku.com/new-york-times-crossword-puzzle-making-history-will-sho-1848440135
+‘Maus’ is an Amazon bestseller after Tennessee school ban,https://www.cnbc.com/2022/01/28/maus-amazon-bestseller-after-tennessee-school-ban.html
+No mountain high enough: study finds plastic in ‘clean’ air,https://www.theguardian.com/environment/2021/dec/21/no-mountain-high-enough-study-finds-plastic-in-clean-air
+I write about America’s health care system, and I got caught up in it,https://www.nakedcapitalism.com/2022/01/i-write-about-americas-absurd-health-care-system-then-i-got-caught-up-in-it.html
+Gitea: Self-Hosted Git Service,https://gitea.com/
+Would you take free land in rural America?,https://thehustle.co/would-you-take-free-land-in-rural-america/
+Official Beijing2022 apps silently collect audio,https://twitter.com/jonathandata1/status/1486458526767661060
+A Mathematician Spends His Sundays,https://www.nytimes.com/2022/01/28/nyregion/steven-strogatz-sundays.html
+Have You Ever Tried to Sell a Diamond?,https://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/
+In Kamloops, Not One Body Has Been Found – The Dorchester Review,https://www.dorchesterreview.ca/blogs/news/in-kamloops-not-one-body-has-been-found
+Susan Kigula: The woman who freed herself and hundreds from death row (2018),https://www.bbc.com/news/stories-43739933
+Spotify’s Platform Rules and Approach to Covid-19,https://newsroom.spotify.com/2022-01-30/spotifys-platform-rules-and-approach-to-covid-19/
+Thailand oil spill: governor declares state of emergency on beach,https://asia.nikkei.com/Spotlight/Environment/Thailand-oil-spill-governor-declares-state-of-emergency-on-beach
+Show HN: Faster R-CNN object detector implemented in PyTorch and TensorFlow 2,https://github.com/trzy/FasterRCNN
+Functional Programming and Web3 (With Brooklyn Zelenka),https://serokell.io/blog/functional-programming-and-web3-with-brooklyn-zelenka
+The Geysers – Geothermal Plants Powering Northern California,https://en.wikipedia.org/wiki/The_Geysers
+Howard Hesseman, Star of ‘WKRP in Cincinnati,’ ~Head of the Class~, Dies at 81,https://variety.com/2022/tv/news/howard-hesse-man-dead-wkrp-in-cincinnati-police-academy-1235167152/
+Online archives where scientists post research spark information revolution,https://www.washingtonpost.com/health/preprint-peer-review-studies/2022/01/28/3cdfb46e-4d53-11ec-b73b-a00d6e559a6e_story.html
+Micromanagement, credit stealing, bullying: Are you a jerk at work?,https://www.theguardian.com/money/2022/jan/30/jerks-at-work-are-lazy-bullying-manipulative-devious-does-this-sound-like-you
+I’ve seen the metaverse – and I don’t want it,https://metacpc.org/en/metaverse-guardian/
+Sigfox Is in Financial Trouble,https://www.cnx-software.com/2022/01/27/sigfox-is-in-financial-trouble/
+Joe Rogan Is the Aleph,https://www.tabletmag.com/sections/news/articles/joe-rogan-the-aleph
+How to Use Tags,https://karl-voit.at/2022/01/29/How-to-Use-Tags/
+Robinhood posts $423M net loss,https://www.cnn.com/2022/01/27/business/robinhood-earnings/index.html
+Japanese Publishers to Sue Cloudflare for Hosting Manga Piracy Sites,https://www.animenewsnetwork.com/news/2022-01-30/asahi-kyodo-4-japanese-publishers-to-sue-cloudflare-for-offering-data-services-to-manga-piracy-sites/.182045
+NFTs Are, Quite Simply, Bullshit,https://jacobinmag.com/2022/01/nfts-fallon-paris-hilton-bored-ape-digital-imagery-commodification
+Random is how the individual functions in society,https://tumbleweedwords.substack.com/p/random-sex-poem
+‘I’m just high on life and beauty’: the woman who can see 100M colours,https://www.theguardian.com/society/2022/jan/30/im-really-just-high-on-life-and-beauty-the-woman-who-can-see-100-million-colours
+Spotify: Streaming giant announces plans to clamp down on Covid misinformation,https://www.bbc.co.uk/news/entertainment-arts-60192957
+Python 2.7 removed from macOS Monterey 12.3 beta,https://derflounder.wordpress.com/2022/01/27/python-2-7-removed-from-macos-monterey-12-3-beta/
+How We Ended Up with the Pregnant Man Emoji,https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji
+Show HN: An offensive security toolkit written in Rust,https://github.com/kmanc/remote_code_oxidation
+United flies passenger flight on sustainable aviation fuel supplying one engine,https://www.ge.com/news/reports/united-flies-worlds-first-passenger-flight-on-100-sustainable-aviation-fuel-supplying-one
+Google terminates Play Store account of Simple Keyboard developer,https://github.com/rkkr/simple-keyboard/issues/333
+What I learned from a year of watching bad financial advice on TikTok,https://www.vice.com/en/article/5dg5qz/what-you-learn-from-a-year-of-watching-bad-financial-advice-on-tiktok
+The Physics of the N95 Face Mask,https://www.wired.com/story/the-physics-of-the-n95-face-mask/
+Python Graph Gallery,https://www.python-graph-gallery.com/
+Web3,https://www.profgalloway.com/web3/
+NYC restaurants starved for diners, while Miami business up,https://nypost.com/2022/01/29/nyc-restaurants-starved-for-diners-while-miami-business-up/
+Windows vulnerability with new public exploits lets you become admin,https://www.bleepingcomputer.com/news/microsoft/windows-vulnerability-with-new-public-exploits-lets-you-become-admin/
+Every Toxic Thing Google Did in 2021. [video],https://www.youtube.com/watch?v=I4Cazu0zq4k
+Greater Fool Theory,https://en.wikipedia.org/wiki/Greater_fool_theory
+Toyota sales grow 10.6% as firm retains global best-seller title,https://www.autocar.co.uk/car-news/business-finance-and-corporate/toyota-sales-grow-106-firm-retains-global-best-seller-title
+NFT Market LooksRare Has Reportedly Generated $8B in Ethereum NFT Wash Trading,https://decrypt.co/91510/looksrare-has-reportedly-generated-8b-ethereum-nft-wash-trading
+Bats can use leaves as “sound mirrors” for better navigation (2019),https://arstechnica.com/science/2019/08/these-bats-can-use-leaves-as-sound-mirrors-for-better-navigation/
+The cardinal rules of DBMS development,http://www.dbms2.com/2013/03/18/dbms-development-marklogic-hadoop/
+FBI Bought Israeli Spyware and Explored Hacking U.S. Phones,https://www.nytimes.com/2022/01/28/world/middleeast/israel-pegasus-spyware.html
+SNES Sound System (SPC700) Overview [video],https://www.youtube.com/watch?v=zrn0QavLMyo
+The Fed is the furthest behind inflation since 1951,https://twitter.com/LynAldenContact/status/1487481784447250441
+Former Valve economist speaks on Techno-Feudalism,https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/
+I made an app to learn Hirigana (ひらがな) with Flash Cards,https://libre.study/courses/30/
+Teen wants $50k to stop tracking Elon Musk’s private jet,https://www.engadget.com/elon-musk-elonjet-twitter-bot-221826608.html
+I didn’t know who I was any more: how CIA torture pushed me to the edge of death,https://www.theguardian.com/us-news/2022/jan/29/abu-zubaydah-cia-torture-waterboarding-guantanamo
+Stop charging your phone like this,https://simplealpaca.medium.com/stop-charging-your-iphone-like-this-28578cffd324
+Book Review: “Sadly, Porn” by the Last Psychiatrist,https://zerohplovecraft.substack.com/p/book-review-sadly-porn-by-the-last
+Wall Street Traders Muscle into the Middle of Crypto,https://www.bloomberg.com/news/articles/2022-01-19/wall-street-traders-want-crypto-market-profits-and-future-in-the-global-economy
+What Spotify data show about the decline of English,https://www.economist.com/interactives/graphic-detail/2022/01/29/what-spotify-data-show-about-the-decline-of-english/index.html
+NASA brought the monstrous F-1 “moon rocket” engine back to life,https://arstechnica.com/science/2013/04/how-nasa-brought-the-monstrous-f-1-moon-rocket-back-to-life/
+Rust: Detect Unsigned Integer Underflow,https://frehberg.com/2022/01/rust-detect-unsigned-integer-underflow/
+Robot successfully performs keyhole surgery on pigs without human help,https://www.theguardian.com/technology/2022/jan/26/robot-successfully-performs-keyhole-surgery-on-pigs-without-human-help
+How to Make Vegan Cheese from Coconut Milk (2020),https://thehiddenveggies.com/how-to-make-vegan-cheese-provolone/#how-to-make-meltable-vegan-cheese
+How do we solve Bitcoin’s carbon problem?,https://www.theguardian.com/technology/2022/jan/30/how-do-we-solve-bitcoins-carbon-problem
+Show HN: Over 5k tech remote jobs published in January,https://docs.google.com/spreadsheets/d/1itTKyluegCOxIUFCSQH4JOz-gVVVGjvytCQ6WMlje6w/edit?usp=sharing
+Joni Mitchell Joining Neil Young in Protest over Spotify,https://apnews.com/article/joni-mitchell-spotify-protest-coronavirus-neil-young-895b130dac2886d1eb4130e47ed7dd5b
+Restaurants Ditch Phone Lines, Making Employees’ Lives Easier,https://www.nytimes.com/2022/01/28/dining/restaurant-phone-line-call.html
